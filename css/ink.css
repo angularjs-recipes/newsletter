@@ -520,10 +520,6 @@ body.outlook p {
         width: auto !important;
         height: auto !important;
     }
-    table[class=body] img.logo {
-        width: 168px !important;
-        height: 75px !important;
-    }
 }
 @media only screen and (max-width: 600px) {
     table[class=body] center {
