@@ -1,6 +1,6 @@
 # newsletter
 
-Mist.io newsletter template built with:
+AngularJS Recipes newsletter template built with:
 
 - [Foundation for Emails](http://foundation.zurb.com/emails.html)
 - [Grunt](http://gruntjs.com/)
